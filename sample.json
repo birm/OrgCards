@@ -1,0 +1,61 @@
+{
+    "Roles": [{
+            "id": 1,
+            "display": "Administrator",
+            "Responsibilities": ["Handle day to day administative operations", "Ultimate responsibility for staff interaction"]
+        },
+        {
+            "id": 2,
+            "display": "Dean of Education",
+            "Responsibilities": ["Handle day to day educational operations", "Set Curriculum"]
+        },
+        {
+            "id": 3,
+            "display": "Science Teacher",
+            "Responsibilities": ["Teach four science classes throughout the day", "Create and grade assignments"]
+        },
+        {
+            "id": 4,
+            "display": "English Teacher",
+            "Responsibilities": ["Teach four science classes throughout the day", "Create and grade assignments"]
+        }
+    ],
+    "Members": [{
+            "id": 1,
+            "Name": "Alice"
+        },
+        {
+            "id": 2,
+            "Name": "Bob"
+        },
+        {
+            "id": 3,
+            "Name": "Carol"
+        },
+        {
+            "id": 4,
+            "Name": "Eve"
+        }
+    ],
+    "Assignments": [{
+            "Role": 1,
+            "Member": 1
+        },
+        {
+            "Role": 2,
+            "Member": 2
+        },
+        {
+            "Role": 3,
+            "Member": 2
+        },
+        {
+            "Role": 3,
+            "Member": 3
+        },
+        {
+            "Role": 4,
+            "Member": 4
+        }
+    ]
+}
