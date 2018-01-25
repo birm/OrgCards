@@ -1,0 +1,9 @@
+{
+  "cards":{
+    "display": "h1",
+    "Responsibilities": "p",
+    "Members":{
+      "Name": "span"
+    }
+  }
+}
